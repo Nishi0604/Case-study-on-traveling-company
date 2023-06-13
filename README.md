@@ -13,7 +13,7 @@ These topics you will learn when you solve this case study.
 All in all this is a project in itself and can be used as a portfolio project in your resume.
 
 1> Write a sql query that gives the below output
-segment     total_user_count    user_booked_flight_in_apr2022
+segment       total_user_count       user_booked_flight_in_apr2022
 s1                  3                     2
 s2                  2                     2
 s3                  5                     1
